@@ -93,7 +93,7 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 ✅ I build **real websites** with real SEO, real traffic, real constraints  
 ✅ I write **both sides** of the stack — from SQL queries to frontend CSS  
 ✅ I'm in a **Master's program** so my skills are structured, not just self-taught  
-✅ I'm adding **cybersecurity** — I don't just build things, I build them **securely**
+✅ I understand how systems get **attacked** — so I build them **defensively**
 
 ---
 
