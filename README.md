@@ -73,16 +73,6 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 
 ---
 
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ircorona&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
