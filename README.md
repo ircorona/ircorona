@@ -12,8 +12,6 @@
 
 I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack development, currently in a **Master's program in Web Development**. I bridge the gap between data intelligence and web engineering — a rare combo that lets me build data-driven products end to end.
 
-> *"My professor told me I was using too much AI, so here I am writing more manual code. But this is how you learn, right?"*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -49,8 +47,6 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 **Currently learning**
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-43B02A?style=for-the-badge&logo=python&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
@@ -61,10 +57,6 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 | [🌐 master-irmin-corona](https://github.com/ircorona/master-irmin-corona) | Full-stack PHP site with modular architecture, dynamic routing, SQL integration | PHP · MySQL · CSS3 · JS |
 | [📊 Google Data Analytics Case Study](https://github.com/ircorona/Google-s-Data-Analytics-Case-Study-Using-R) | End-to-end data analysis — cleaning, visualization, insights | R · ggplot2 |
 | [🎮 Breaking Bricks JS](https://github.com/ircorona/Breaking-Bricks-with-JS) | Classic arcade game built in vanilla JavaScript | JavaScript · HTML5 Canvas |
-| [🐍 Breaking Bricks Python](https://github.com/ircorona/Breaking_Bricks) | Same game rebuilt in Python — comparing language paradigms | Python |
-| [⚡ Mokepon](https://github.com/ircorona/mokepon) | Turn-based battle game — Pokémon-inspired JS project | JavaScript |
-| [🐍 Python OOP Course](https://github.com/ircorona/Python-course) | OOP fundamentals: classes, inheritance, polymorphism, abstraction | Python |
-| [🔖 Hyperblog](https://github.com/ircorona/hyperblog) | Git & GitHub workflow practice — branching, merging, collaboration | Git · HTML |
 | [auramip.com](https://auramip.com) | Bilingual legal website with multilingual SEO, canonical URLs, structured data | WordPress · SEO · Polylang |
 
 ---
@@ -73,9 +65,7 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Total_Contributions-238-667EEA?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Public_Repos-29-764BA2?style=for-the-badge&logo=github&logoColor=white)
-![Since](https://img.shields.io/badge/Coding_Since-2024-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ircorona&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ircorona&theme=tokyonight&hide_border=true)
 
@@ -128,6 +118,8 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 ---
 
 ## 📬 Let's connect
+
+Open to **full-stack, data, or hybrid roles** — especially teams building data-driven products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irmin_Corona-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irmin-corona/)
 [![Website](https://img.shields.io/badge/Website-climbthesearches.com-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://climbthesearches.com/)
