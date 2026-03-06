@@ -69,23 +69,13 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ircorona&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
 
 ![Contributions](https://img.shields.io/badge/Total_Contributions-238-667EEA?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Public_Repos-29-764BA2?style=for-the-badge&logo=github&logoColor=white)
-![Since](https://img.shields.io/badge/Coding_Since-Oct_2022-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/Coding_Since-2024-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ircorona&theme=tokyonight&hide_border=true)
 
@@ -98,20 +88,6 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ircorona&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ircorona/ircorona/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ircorona/ircorona/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ircorona/ircorona/output/github-snake.svg" />
-</picture>
 
 </div>
 
