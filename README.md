@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Irmin%20Corona&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20·%20Data%20Analyst%20·%20Cybersecurity%20Learner&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Irmin%20Corona&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20·%20Data%20Analyst%20·%20Technical%20SEO%20Specialist&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Data+Analyst+%40+Stellantis+%2F+FCA+%F0%9F%94%A5;Building+real+things+that+work+%F0%9F%9B%A0%EF%B8%8F;Learning+Cybersecurity+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Data+Analyst+%40+Stellantis+%2F+FCA+%F0%9F%94%A5;Technical+SEO+Specialist+%F0%9F%94%8D;Building+data-driven+products+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -99,7 +99,7 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 
 ## 📬 Let's connect
 
-Open to **full-stack, data, or hybrid roles** — especially teams building data-driven products.
+🇭🇰 **Hong Kong Top Talent Pass holder** — open to full-stack, data, or Technical SEO roles in HK and remote.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irmin_Corona-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irmin-corona/)
 [![Website](https://img.shields.io/badge/Website-climbthesearches.com-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://climbthesearches.com/)
