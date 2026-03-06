@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi, I'm Irmin Corona 👋
-### Full-Stack Developer · Data Analyst · Cybersecurity Learner
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Irmin%20Corona&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20·%20Data%20Analyst%20·%20Cybersecurity%20Learner&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Data+Analyst+%40+Stellantis%2FFCA;Building+things+that+work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Data+Analyst+%40+Stellantis+%2F+FCA+%F0%9F%94%A5;Building+real+things+that+work+%F0%9F%9B%A0%EF%B8%8F;Learning+Cybersecurity+%F0%9F%94%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,15 +69,49 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Irmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ircorona&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ircorona&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ircorona&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![Contributions](https://img.shields.io/badge/Total_Contributions-238-667EEA?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_Repos-29-764BA2?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/Coding_Since-Oct_2022-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ircorona&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ircorona&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ircorona/ircorona/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ircorona/ircorona/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ircorona/ircorona/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -116,5 +149,7 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=ircorona&color=667eea&style=for-the-badge&label=Profile+Views)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
