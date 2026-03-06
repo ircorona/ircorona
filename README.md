@@ -47,7 +47,9 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 
 **Currently learning**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
@@ -57,7 +59,6 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 |---|---|---|
 | [🌐 master-irmin-corona](https://github.com/ircorona/master-irmin-corona) | Full-stack PHP site with modular architecture, dynamic routing, SQL integration | PHP · MySQL · CSS3 · JS |
 | [📊 Google Data Analytics Case Study](https://ircorona.github.io/Google-s-Data-Analytics-Case-Study-Using-R/) | End-to-end data analysis — cleaning, visualization, insights | R · ggplot2 |
-| [🎮 Breaking Bricks JS](https://github.com/ircorona/Breaking-Bricks-with-JS) | Classic arcade game built in vanilla JavaScript | JavaScript · HTML5 Canvas |
 | [🔍 auramip.com](https://auramip.com) | Bilingual legal website — Technical SEO, canonical URLs, structured data, multilingual architecture | WordPress · Technical SEO · Polylang |
 
 ---
@@ -93,16 +94,6 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 </picture>
 
 </div>
-
----
-
-## 💼 Professional Background
-
-- 📊 **Data Analyst** at **Stellantis / FCA** — Power BI dashboards, KPI reporting, process analytics
-- 🎓 **Master's in Web Development** — PHP, SQL, full-stack architecture, server configuration
-- 🔐 **Cybersecurity track** via Platzi — ethical hacking, OWASP Top 10, defensive security
-- 🌐 **SEO & WordPress** — managing auramip.com with multilingual SEO, Google Search Console, backlink strategy
-- 🕷️ **Web Scraping** — Python-based data extraction and automation
 
 ---
 
