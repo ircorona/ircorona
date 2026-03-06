@@ -33,9 +33,10 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**CMS & SEO**
+**CMS & Technical SEO**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-FF6B35?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
 
 **Tools & Workflow**
@@ -55,17 +56,15 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 | Project | What it does | Stack |
 |---|---|---|
 | [🌐 master-irmin-corona](https://github.com/ircorona/master-irmin-corona) | Full-stack PHP site with modular architecture, dynamic routing, SQL integration | PHP · MySQL · CSS3 · JS |
-| [📊 Google Data Analytics Case Study](https://github.com/ircorona/Google-s-Data-Analytics-Case-Study-Using-R) | End-to-end data analysis — cleaning, visualization, insights | R · ggplot2 |
+| [📊 Google Data Analytics Case Study](https://ircorona.github.io/Google-s-Data-Analytics-Case-Study-Using-R/) | End-to-end data analysis — cleaning, visualization, insights | R · ggplot2 |
 | [🎮 Breaking Bricks JS](https://github.com/ircorona/Breaking-Bricks-with-JS) | Classic arcade game built in vanilla JavaScript | JavaScript · HTML5 Canvas |
-| [auramip.com](https://auramip.com) | Bilingual legal website with multilingual SEO, canonical URLs, structured data | WordPress · SEO · Polylang |
+| [🔍 auramip.com](https://auramip.com) | Bilingual legal website — Technical SEO, canonical URLs, structured data, multilingual architecture | WordPress · Technical SEO · Polylang |
 
 ---
 
 ## 📈 GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ircorona&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ircorona&theme=tokyonight&hide_border=true)
 
