@@ -65,7 +65,7 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 
 ---
 
-## :zap: Actividad reciente
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
