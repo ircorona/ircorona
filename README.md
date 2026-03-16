@@ -68,11 +68,11 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
-2. 💪 Opened PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
-3. 🗣 Commented on [#1](https://github.com/ircorona/miPrimerRepo/issues/1#issuecomment-4012104696) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
-4. 🔒 Closed issue [#1](https://github.com/ircorona/master-irmin-corona/issues/1) in [ircorona/master-irmin-corona](https://github.com/ircorona/master-irmin-corona)
-5. ❗ Opened issue [#2](https://github.com/ircorona/master-irmin-corona/issues/2) in [ircorona/master-irmin-corona](https://github.com/ircorona/master-irmin-corona)
+1. 🎉 Merged PR [#1](https://github.com/ircorona/miCuartoRepo/pull/1) in [ircorona/miCuartoRepo](https://github.com/ircorona/miCuartoRepo)
+2. 💪 Opened PR [#1](https://github.com/ircorona/miCuartoRepo/pull/1) in [ircorona/miCuartoRepo](https://github.com/ircorona/miCuartoRepo)
+3. 🎉 Merged PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
+4. 💪 Opened PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
+5. 🗣 Commented on [#1](https://github.com/ircorona/miPrimerRepo/issues/1#issuecomment-4012104696) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
 <!--END_SECTION:activity-->
 
 ---
