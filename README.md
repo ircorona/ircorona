@@ -68,11 +68,11 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ircorona/miCuartoRepo/pull/1) in [ircorona/miCuartoRepo](https://github.com/ircorona/miCuartoRepo)
-2. 💪 Opened PR [#1](https://github.com/ircorona/miCuartoRepo/pull/1) in [ircorona/miCuartoRepo](https://github.com/ircorona/miCuartoRepo)
-3. 🎉 Merged PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
-4. 💪 Opened PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
-5. 🗣 Commented on [#1](https://github.com/ircorona/miPrimerRepo/issues/1#issuecomment-4012104696) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/ircorona/tercerRepo/releases/tag/v0.1.0) in [ircorona/tercerRepo](https://github.com/ircorona/tercerRepo)
+2. 🎉 Merged PR [#1](https://github.com/ircorona/miCuartoRepo/pull/1) in [ircorona/miCuartoRepo](https://github.com/ircorona/miCuartoRepo)
+3. 💪 Opened PR [#1](https://github.com/ircorona/miCuartoRepo/pull/1) in [ircorona/miCuartoRepo](https://github.com/ircorona/miCuartoRepo)
+4. 🎉 Merged PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
+5. 💪 Opened PR [#3](https://github.com/ircorona/miPrimerRepo/pull/3) in [ircorona/miPrimerRepo](https://github.com/ircorona/miPrimerRepo)
 <!--END_SECTION:activity-->
 
 ---
