@@ -61,7 +61,7 @@ I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack developme
 |---|---|---|
 | [🌐 master-irmin-corona](https://github.com/ircorona/master-irmin-corona) | Full-stack PHP site with modular architecture, dynamic routing, SQL integration | PHP · MySQL · CSS3 · JS |
 | [📊 Google Data Analytics Case Study](https://ircorona.github.io/Google-s-Data-Analytics-Case-Study-Using-R/) | End-to-end data analysis — cleaning, visualization, insights | R · ggplot2 |
-| [🔍 auramip.com](https://auramip.com) | Bilingual legal website — Technical SEO, canonical URLs, structured data, multilingual architecture | WordPress · Technical SEO · Polylang |
+| [🔍 auramip.com](https://auramip.com) | Bilingual IP-law site, migrated WordPress → Astro. Hreflang pairs, JSON-LD entity graph, programmatic page cluster, 99–100 mobile Lighthouse | Astro · TypeScript · Tailwind · Technical SEO |
 
 ---
 
