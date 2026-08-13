@@ -12,6 +12,8 @@
 
 I'm a **Data Analyst at Stellantis/FCA** transitioning into full-stack development, currently in a **Master's program in Web Development**. I bridge the gap between data intelligence and web engineering — a rare combo that lets me build data-driven products end to end.
 
+I also handle **technical SEO and brand analytics at [Auramip](https://auramip.com)**, a Mexican intellectual property firm: tracking where registered trademarks surface in search and on marketplaces, and building the monitoring that watches them at scale.
+
 ---
 
 ## 🛠️ Tech Stack
